@@ -6,21 +6,21 @@ Efetuado a extração de 51 cursos de pós-graduação do link https://sucupira.
 
 Campos extraídos : 
 
-for light mode código 
-for light mode areaBasica
-for light mode areaAvaliacao
-for light mode situação
-for light mode cidade
-for light mode mestrado
-for light mode situacaoMestrado 
-for light mode doutorado
-for light mode codigoMestrado 
-for light mode situacaoDoutorado 
-for light mode notaMestrado
-for light mode codigoDoutorado 
-for light mode cep
-for light mode inicio
-for light mode universidade  
+- código 
+- areaBasica
+- areaAvaliacao
+- situação
+- cidade
+- mestrado
+- situacaoMestrado 
+- doutorado
+- codigoMestrado 
+- situacaoDoutorado 
+- notaMestrado
+- codigoDoutorado 
+- cep
+- inicio
+- universidade  
 
 
 Supracitado, atraves de estudo na estrutura do site e aprendendo um pouco mais sobre essa poderosa linguagem e suas bibliotecas.
